@@ -1,0 +1,2 @@
+Manifest-Verion: 1.0
+Main-Class: Client 
